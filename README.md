@@ -1,5 +1,5 @@
 # mavlink-display
-Arduino/OLED display for Mavlink telemetry
+Arduino / OLED display for Mavlink telemetry
 
 video for russian users: https://youtu.be/RXbNGYmCdYs
 
