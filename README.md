@@ -13,5 +13,6 @@ Device display current telemetry data: gps coords, battery data, heading, alt an
 Store last data to eeprom and display on powered, if no fresh telemetry data.
 If telemetry lost, display last data.
 
-Build: connect OLED display to Arduino on gnd, vcc, scl, sda pins; install libs from used_libs.zip; upload sketch; connect GND and RX pin arduino to GND and TX pins rc/qczek telemetry output
+Build: connect OLED display to Arduino on gnd, vcc, scl, sda pins; install libs from used_libs.zip; upload sketch; connect GND and RX pin arduino to GND and TX pins rc/qczek telemetry output.
+
 Power on device. Enjoy, this is easy way to see last telemetry data on crash / lost your aircraft.
