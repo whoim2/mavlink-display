@@ -3,7 +3,7 @@ Arduino / OLED display for Mavlink telemetry
 
 video for russian users: https://youtu.be/RXbNGYmCdYs
 
-[![Watch the video](https://github.com/whoim2/mavlink-display/blob/master/photo_title.png?raw=true)](https://youtu.be/RXbNGYmCdYs)
+[![Watch the video](https://github.com/whoim2/mavlink-display/blob/master/img.png?raw=true)](https://youtu.be/RXbNGYmCdYs)
 
 Used Arduino Nano / Mini / Micro or other with h/w Serial and OLED i2c display 128x32 (SSD1306) or another. You may use any your display with your library, sketch very simple.
 
