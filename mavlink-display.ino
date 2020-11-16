@@ -9,7 +9,7 @@
 SSD1306AsciiWire oled;
 
 #define MAV_TIMEOUT 5000 //mavlink timeout
-#define SERIAL_SPEED 9600 //9600 for sbus, 57600 for cppm
+#define SERIAL_SPEED 9600 //mavlink input baud
 #define DEBUG
 mavlink_message_t msg;
 mavlink_status_t status;
